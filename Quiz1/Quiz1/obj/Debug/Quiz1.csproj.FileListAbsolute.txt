@@ -1,0 +1,11 @@
+D:\paradigma\Quiz1\Quiz1\bin\Debug\Quiz1.exe.config
+D:\paradigma\Quiz1\Quiz1\bin\Debug\Quiz1.exe
+D:\paradigma\Quiz1\Quiz1\bin\Debug\Quiz1.pdb
+D:\paradigma\Quiz1\Quiz1\obj\Debug\Quiz1.csproj.AssemblyReference.cache
+D:\paradigma\Quiz1\Quiz1\obj\Debug\Quiz1.Properties.Resources.resources
+D:\paradigma\Quiz1\Quiz1\obj\Debug\Quiz1.csproj.GenerateResource.cache
+D:\paradigma\Quiz1\Quiz1\obj\Debug\Quiz1.csproj.CoreCompileInputs.cache
+D:\paradigma\Quiz1\Quiz1\obj\Debug\Quiz1.exe
+D:\paradigma\Quiz1\Quiz1\obj\Debug\Quiz1.pdb
+D:\paradigma\Quiz1\Quiz1\obj\Debug\Quiz1.Reporte.resources
+D:\paradigma\Quiz1\Quiz1\obj\Debug\Quiz1.Home.resources
